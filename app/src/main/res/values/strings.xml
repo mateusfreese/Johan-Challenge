@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JohanApp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_teeste">teeste</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="dialog_fire_missiles">Você tem certeza que deseja excluir a anotação?</string>
+    <string name="acccept">Sim</string>
+    <string name="deny">Não</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
